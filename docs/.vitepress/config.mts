@@ -5,6 +5,7 @@ import { enConfig } from './config/en'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/ ',
   ...sharedConfig,
   lastUpdated: false,
   title: "Roxybrowser",
