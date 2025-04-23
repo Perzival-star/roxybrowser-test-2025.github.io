@@ -39,7 +39,7 @@ Roxybrowser客户端目前支持在 Windows、Mac 系统安装使用。建议安
 
 --- 配图待定 ---  
 
-**User-Agent**：根据选择的系统版本以及内核随机生成，点击刷新可以生成不同的User Agent信息并支持对User Agent自定义修改，[了解：什么是User Agent](/zh/Features/名词解释)
+**User-Agent**：根据选择的系统版本以及内核随机生成，点击刷新可以生成不同的User Agent信息并支持对User Agent自定义修改，[了解：什么是User Agent](/zh/features/glossary)
 
 --- 配图待定 ---  
 
@@ -58,7 +58,7 @@ Roxybrowser客户端目前支持在 Windows、Mac 系统安装使用。建议安
 
 **自定义打开URL**：输入您需要访问的任意账号平台。  
 
-**Cookies**：选填。在此输入或粘贴 Json 格式 Cookies 或者上传 Cookies 文件，[了解：什么是cookies](/docs/zh/Features/名词解释)
+**Cookies**：选填。在此输入或粘贴 Json 格式 Cookies 或者上传 Cookies 文件，[了解：什么是cookies](/docs/zh/features/glossary)
 
 --- 配图待定 ---  
 
